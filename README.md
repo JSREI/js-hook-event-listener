@@ -2,7 +2,7 @@
 
 JavaScript逆向开发基础组件系列：Hook事件监听器函数，一般用在编写JavaScript逆向的油猴脚本中，作为基础组件提高开发效率。
 
-Example:
+## Example
 
 油猴脚本中使用方式大概是这样：
 
@@ -30,6 +30,9 @@ const eventFunc = function () {
 // elementById.addEventListener("click", eventFunc);
 elementById.onclick = eventFunc;
 ```
+
+## TODO 
+对于DOM元素直接在<HTMLElement>标签中绑定时间的情况也要能够Hook得到 
 
 
 
