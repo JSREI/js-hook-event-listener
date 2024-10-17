@@ -73,5 +73,4 @@ If the group QR code has expired, you can add my personal WeChat and send [Rever
 
 <img src="./README.assets/image-20241016231143315.png" style="width: 200px">
 
-Regarding the link you mentioned, I encountered some issues while trying to parse the webpage. This could be due to the link itself or network-related problems. I suggest checking the legitimacy of the web link and trying again if necessary. If you don't need the content of this specific link, feel free to ask any other questions you may have.
 
